@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio Player</string>
+    <string name="audios">AUDIOS</string>
+    <string name="no_audios">No Audios Available</string>
+    <string name="audio_title_text">Audio Title Text</string>
+    <string name="audio_icon">audio_icon</string>
+    <string name="audio_title">Audio title</string>
+    <string name="time">0:00</string>
+    <string name="next_button">next button</string>
+    <string name="player_controls">player controls</string>
+    <string name="audio_thumbnail">audio thumbnail</string>
+</resources>
